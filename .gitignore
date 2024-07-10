@@ -1,0 +1,37 @@
+# Dependency directories
+/node_modules
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Directory for testing
+/tests
+
+# Editor-specific files
+.vscode
+.idea
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore built files for production
+/build
+
+# Ignore package-lock.json file for npm
+package-lock.json
+
+
+
+.env
